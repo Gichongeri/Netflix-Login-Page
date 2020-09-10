@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(./images/background\ image.jpg) ;
+    background-position: center;
+}
+.form{
+    width: 30%;
+    height: 550px;
+    background: rgba(0,0,0, .9);
+    margin: 0 auto;
+    padding: 20px;
+    align-content: center;
+}
+#sign{
+    color: #fff;
+    font-size: 2em;
+    
+}
+#email{
+    background:rgba(155, 152, 152, 0.52);
+    color:#fff;
+    width: 300px;
+    height: 3em;
+    margin: 0 auto;
+    
+    
+}
+#password{
+    background:rgba(155, 152, 152, 0.438);
+    color:#fff;
+    width: 300px;
+    height: 3em;
+    margin: 0 auto;
+}
+
+button{
+    background: red;
+    color: #fff;
+    width: 300px;
+    height: 3em;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+
+}
+p{
+    color: #fff;
+}
+#more{
+    text-decoration: none;
+    color: blue;
+}
